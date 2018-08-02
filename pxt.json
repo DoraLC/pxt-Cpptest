@@ -1,0 +1,15 @@
+{
+    "name": "cpptest",
+    "version": "0.0.1",
+    "description": "cpptest",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "README.md",
+        "test.ts", 
+        "test.cpp"
+    ],
+    "public": false
+}
